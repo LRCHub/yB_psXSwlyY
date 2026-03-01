@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Numberless",
+  "base_artist": "大石泉 (CV: 大木咲絵子)",
+  "createdAt": "2026-03-01T01:18:42.146099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Riseth He, the Numberless, Pt. 1",
+      "artist": "maudlin of the Well",
+      "has_synced": true,
+      "path": "select/01_Riseth_He,_the_Numberless,_Pt._1_maudlin_of_the_Well.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Riseth He, the Numberless, Pt. 2",
+      "artist": "maudlin of the Well",
+      "has_synced": true,
+      "path": "select/02_Riseth_He,_the_Numberless,_Pt._2_maudlin_of_the_Well.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Numberless",
+      "artist": "大石泉(CV:大木咲絵子)",
+      "has_synced": false,
+      "path": "select/pl_01_Numberless_大石泉(CV_大木咲絵子).txt"
+    }
+  ]
+}
